@@ -1,0 +1,38 @@
+div {
+    font-size: 20px;
+    margin: 20px;
+    margin-top: 1px;
+    margin-left: 10px;
+    margin: 0px 5px 5px 0px;
+    padding: 10px 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: aquamarine;
+    border-radius: 10px;
+    border-bottom-width: 15px;
+    border-top-color: rgb(194, 169, 169);
+}
+
+h1 {
+   margin-left: 600px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    padding: 10px ;
+    margin: 10px;
+}
+
+p{
+    padding: 30px;
+}
+.btn{
+    display: flex;
+    flex-direction: row;
+    padding: 10px ;
+    margin: 10px;
+}
+p{
+    padding: 30px;
+}
